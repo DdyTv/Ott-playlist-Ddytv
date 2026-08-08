@@ -167,4 +167,18 @@ rtmp://202.129.216.27:1970/antv/antv3
 rtmp://118.97.167.19/jhos/tvone
 
 #EXTINF:-1 tvg-id=RCTV” tvg-name=RCTV” tvg-logo=”RCTV.png” group-title=”Indonesia”, RCTV
-rtmp://edge.okeinfo.net/live/mncoke1_512.stream
+rtmp://edge.okeinfo.net/live/mncoke1_512.stream 
+#EXTINF:-1 tvg-id="TV1" tvg-logo="https://glueapi.io" group-title="Malaysia", TV1
+https://secureswiftcontent.com
+
+#EXTINF:-1 tvg-id="TV2" tvg-logo="https://rtm.gov.my" group-title="Malaysia", TV2
+https://secureswiftcontent.com
+
+#EXTINF:-1 tvg-id="TV Okey" tvg-logo="https://wikimedia.org" group-title="Malaysia", TV Okey
+https://secureswiftcontent.com
+
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://wikimedia.org" group-title="Malaysia", Sukan RTM
+https://secureswiftcontent.com
+
+#EXTINF:-1 tvg-id="Berita RTM" tvg-logo="https://wikimedia.org" group-title="Malaysia", Berita RTM
+https://secureswiftcontent.com
